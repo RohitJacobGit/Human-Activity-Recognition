@@ -1,4 +1,4 @@
 # Human-Activity-Recognition
 
 # File Structure
-![alt text](/Users/rohitanand/Desktop/file.png)
+![alt text](https://github.com/RohitJacobGit/Human-Activity-Recognition/blob/master/file.png)
